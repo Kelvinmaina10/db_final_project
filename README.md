@@ -10,7 +10,7 @@ A simple API for managing contacts and groups.
 
 ## Entity-Relationship Diagram (ERD)
 
-Below is the ERD for the Contact Book API:
+Above is the ERD for the Contact Book API:
 
 
 ## Usage
